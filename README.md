@@ -124,10 +124,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/Ngunjiri-David/monty_sketcher.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
